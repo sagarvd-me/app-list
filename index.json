@@ -1,0 +1,33 @@
+{
+    "updated": 1606338145040,
+    "apps": [
+        {
+            "title": "PowerAudio Plus",
+            "price": "300",
+            "description": "PowerAudio music player brings you the all new music experience. It features an easy to use interface and best in class audio quality. You can browse songs by albums, artists or playlists. PowerAudio music player has a separate tab for all your favorite tracks, you can add songs to your favorites from any tab. PowerAudio music player supports playlists, you can create you own playlists with the tracks you want. This music player features a powerful equalizer with BassBoost and Virtualizer. You can choose from a variety of music presets or create your custom preset.",
+            "id": "power.amp.musicplayer.pi.audioplayer",
+            "image": "https://play-lh.googleusercontent.com/CYW-l3xW63K8GUrHPyTNV0gNkqdpxmE9wvAVJ8cqDypIemm3PAw72wC3R9FPJ3XLzVUI=s180-rw"
+        },
+        {
+            "title": "Flippy Geometry 3D Polysphere Puzzles with Poly",
+            "price": "65",
+            "description": "Flippy Geometry 3D Puzzles is a brand-new 3D puzzle & brain teaser game!! The gameplay is very simple and relaxing: rotate the puzzle pieces, and as you get closer to the correct angle, the pieces will merge into a beautiful picture of artwork! It is like anti-stress slime simulator. If you are interested in coloring puzzle art and low poly art game or stress relief , Flippy Geometry 3D Puzzles with low-poly illustration is one of the best choices for you. 3D Puzzle designed for families. Test your brain if you love poly and brain games!",
+            "id": "com.alieninzen.FlippyGeometry",
+            "image": "https://play-lh.googleusercontent.com/o3zstmAD2c6djl7xE1isQLuzLmhsrmxH701xBcmhwpiwWVaQCq5ESheQo--TM_6GcSY=s180-rw"
+        },
+        {
+            "title": "Frank Harr's Conversion--Units and Ratios",
+            "price": "85",
+            "description": "f you're an Engineer, A Scientist, A Researcher, Or just like Measuring Things You can use Frank Harr's Conversion App! So, what makes it so special? It's relatively small, doesn't need access to the internet, doesn't collect user data and has no ads and no in-app purchases.",
+            "id": "appinventor.ai_RoyceGrey.Frank_Harr_s_Conversion_App",
+            "image": "https://play-lh.googleusercontent.com/AzMFUc9bGJs2q3b8Rv5pZvjSrFkyTHOaYaq2tj52ZBoFBTyGG6jYEE_30Gi-g_0IZg=s180-rw"
+        },
+        {
+            "title": "Auditory Skills Checklist Pro",
+            "price": "220",
+            "description": "This App contains the MED-EL Rehabilitation assessment tool named the Auditory Skills Checklist (ASC). The ASC is used for paediatric assessment.",
+            "id": "com.medel.auditory",
+            "image": "https://play-lh.googleusercontent.com/vWAXLe-aJIkEvKJZenJFeFPAlFeH0ThXOVt2ZNTuwbGpaxQtn3LmLTy0K-u5vpyuW3Y=s180-rw"
+        }
+    ]
+}
